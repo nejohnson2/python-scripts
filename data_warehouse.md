@@ -15,6 +15,10 @@ This has household characteristics and population for census blocks collected co
 
 A shapefile containing the geometries for all DSNY Sections.
 
+### DSNY Waste Characterization Study
+
+
+
 ### Landfills
 
 These can be found at the [EPA Enforcement and Compliance History Online(ECHO)](http://echo.epa.gov/?redirect=echo) by searching for two facility type numbers.  SIC 4953 and NAICS 562212
